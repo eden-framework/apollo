@@ -1,8 +1,8 @@
-module github.com/eden-framework/apollo
+module gitee.com/eden-framework/apollo
 
-go 1.14
+go 1.16
 
 require (
-	github.com/eden-framework/reflectx v0.0.2
+	gitee.com/eden-framework/reflectx v0.0.3
 	github.com/sirupsen/logrus v1.7.0
 )
